@@ -1,0 +1,17 @@
+flask
+flask-cors
+python-dotenv
+langchain_openai
+langchain_community
+qdrant-client
+sentence-transformers
+pypdf2
+python-docx
+docx
+pandas
+openai
+streamlit
+requests
+werkzeug
+
+
